@@ -1,0 +1,22 @@
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.DAL.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\RestSharp.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\bin\Debug\RestSharp.xml
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.csprojResolveAssemblyReference.cache
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.DAL.pdb
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\RestSharp.dll
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Walter\Cartera\Vistony.AddonName.DAL\bin\Debug\RestSharp.xml
+D:\Walter\Cartera\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.csproj.AssemblyReference.cache
+D:\Walter\Cartera\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.csproj.CoreCompileInputs.cache
+D:\Walter\Cartera\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.csproj.CopyComplete
+D:\Walter\Cartera\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Walter\Cartera\Vistony.AddonName.DAL\obj\Debug\Vistony.CargaMasiva.DAL.pdb

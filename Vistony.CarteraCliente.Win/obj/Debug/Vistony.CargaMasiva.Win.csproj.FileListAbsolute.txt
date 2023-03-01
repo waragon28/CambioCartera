@@ -1,0 +1,38 @@
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.exe.config
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.xml
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.exe
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.DAL.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.Properties.Resources.resources
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.csproj.GenerateResource.cache
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.exe
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.csprojResolveAssemblyReference.cache
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.exe.config
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.xml
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.exe
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.Win.pdb
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\Vistony.CargaMasiva.DAL.pdb
+D:\Walter\Cartera\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.csproj.AssemblyReference.cache
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.Properties.Resources.resources
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.csproj.GenerateResource.cache
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.csproj.CoreCompileInputs.cache
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.csproj.CopyComplete
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.exe
+D:\Walter\Cartera\Vistony.AddonName.Win\obj\Debug\Vistony.CargaMasiva.Win.pdb

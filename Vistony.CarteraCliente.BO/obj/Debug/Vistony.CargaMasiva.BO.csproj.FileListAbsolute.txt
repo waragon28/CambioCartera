@@ -1,0 +1,14 @@
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BO\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BO\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.csprojResolveAssemblyReference.cache
+D:\Walter\Cartera\Vistony.AddonName.BO\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Walter\Cartera\Vistony.AddonName.BO\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Walter\Cartera\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Walter\Cartera\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.csproj.AssemblyReference.cache
+D:\Walter\Cartera\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.csproj.CoreCompileInputs.cache
+D:\Walter\Cartera\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.csproj.CopyComplete
+D:\Walter\Cartera\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.dll
+D:\Walter\Cartera\Vistony.AddonName.BO\obj\Debug\Vistony.CargaMasiva.BO.pdb

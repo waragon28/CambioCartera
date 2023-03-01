@@ -1,0 +1,14 @@
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Vistony.CargaMasiva.BLL.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Vistony.CargaMasiva.BLL.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Vistony.CargaMasiva.BO.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Vistony.CargaMasiva.DAL.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\RestSharp.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Vistony.CargaMasiva.BO.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\Vistony.CargaMasiva.DAL.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\bin\Debug\RestSharp.xml
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\obj\Debug\Vistony.CargaMasiva.BLL.dll
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\obj\Debug\Vistony.CargaMasiva.BLL.pdb
+D:\Desarrollo\Carga Masiva\Vistony.AddonName.BLL\obj\Debug\Vistony.CargaMasiva.BLL.csprojResolveAssemblyReference.cache

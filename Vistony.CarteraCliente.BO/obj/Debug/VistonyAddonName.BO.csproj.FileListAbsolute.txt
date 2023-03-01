@@ -1,0 +1,6 @@
+F:\Percy\Addons\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+F:\Percy\Addons\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+F:\Percy\Addons\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+F:\Percy\Addons\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+F:\Percy\Addons\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
